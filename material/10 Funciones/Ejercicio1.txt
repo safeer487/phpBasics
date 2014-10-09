@@ -1,0 +1,8 @@
+- Realiza una función que pida un nombre de entrada y te salude. Por ejemplo: saludar("Paco") -> Debe imprimir: "Hola Paco".
+- Crea una función para saber si un número es par. return true o false.
+
+- Diseña una función que de el cuadrado de un número.
+
+- Escribe una función que te busque múltiplos y los imprima. (multiplo, inicial, final)
+
+- Pro: Escribe una funcion que te de los numeros primos entre dos.

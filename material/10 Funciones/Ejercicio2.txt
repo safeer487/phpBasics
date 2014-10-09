@@ -1,0 +1,9 @@
+- Con lo aprendido en los formularios y las funciones: crea una calculadora que sume.
+    ____       ____
+   |_6__|  +  |_1__|   Sumar
+
+En el archivo "sumar.php", imprimirá: 6 + 1 = 7
+
+- Añade más campos para Restar, multiplicar y dividir. 
+
+PISTA: parseInt()

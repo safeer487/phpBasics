@@ -1,0 +1,11 @@
+Realiza el juego del ahorcado.
+
+Necesitarás 3 arrays distintos:
+
+- $aAdivinar = array('p', 'o', 's', 't', 'a', 'l');
+- $aVisual = array('_', '_', '_', '_', '_', '_');
+- $aLetrasAnti = array();
+
+La información se moverá en la misma página.
+
+PISTA: serialize

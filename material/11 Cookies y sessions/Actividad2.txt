@@ -1,0 +1,7 @@
+Propuesta de la ley 24F.
+
+Se va a hacer un referendum para ver si se aprueba la ley 24F (la prohibición de pestañear en público). Para la votación se utilizará un sistema informático.
+
+Tiene que mostrarse una página web con la pregunta: ¿Usted desea votar a favor de la ley 24F?. Y dos botones: Si y No. 
+
+Cuando se pulse sobre uno de los botones se creará la cookie correspondiente con la elección. Si el usuario vuelve a entrar, los botones estarán desactivados y mostrará un mensaje que diga: Usted ya ha votado X . 

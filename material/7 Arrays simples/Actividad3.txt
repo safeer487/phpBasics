@@ -1,0 +1,11 @@
+﻿-Almacena en un array los 10 primeros números pares. Después 
+imprimelos.
+
+-Sumalos entre sí los números anteriores (ayudate de foreach) 
+e imprime el resultado.
+
+-Crea un array introducciendo las ciudades: Madrid, 
+Barcelona, Londres, New York, Los Angeles y Chicago. Imprimelos de la siguiente forma.
+
+"La ciudad en la posición 1 tiene el nombre Madrid."
+"La ciudad en la posición 2 tiene el nombre Barcelona."

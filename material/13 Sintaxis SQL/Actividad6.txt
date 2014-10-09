@@ -1,0 +1,7 @@
+Realiza un buscador para la base de datos de los caballos.
+
+- Una página para los animales.
+
+- Otra para los propietarios.
+
+- Una simple para los establos.

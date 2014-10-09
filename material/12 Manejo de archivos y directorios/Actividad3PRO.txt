@@ -1,0 +1,7 @@
+Un magnate del petróleo de Kuwait esta dispuesto a invertir 12 millones de euros en una aplicación. Su objetivo es la creación de un software en PHP capaz de crear plantillas HTML.
+
+- Contendrá un formulario donde se pedirá la versión del HTML (4 o 5).
+- Deberá crear un directorio llamado: plantilla($version)
+- Dentro: css, js, php, img. 
+- Al mismo nivel, un archivo index.html con un html básico. (Puedes hacer un copy-paste de Dreamweaver)
+- Dentro de css tiene que existir un documento main.css

@@ -1,0 +1,10 @@
+Realiza un formulario que te pida el año de nacimiento. Deberás comprobar si es mayor de edad. 
+
+Si cumple el filtro, deberá imprimirse el texto: Bienvenido.
+Si no cumple: No se admiten menores.
+
+Puedes utilizar las siguientes funciones:
+
+is_int() //Comprueba si es un Integer (un entero)
+strlen() //Cuenta el número de caracteres
+date() //Manejar fechas (consulta el API)

@@ -1,0 +1,9 @@
+- Crea y rellena una matriz de 5x5. Su contenido será la palabra "Enano". Imprime la primera línea.
+
+- Crea y rellena una matriz de 400x400. Su contenido será la palabra "Grande". Imprime la primera línea.
+
+- De la primera matriz, modifica el centro por la palabra "Centro". Imprime todos los campos ordenados.
+
+- De la segunda matriz, sustituble las posiciones impares de la primera línea por la palabra "Impar". Imprime toda la línea.
+
+- Imprime todo el contenido de la segunda matriz. (Si puedes)

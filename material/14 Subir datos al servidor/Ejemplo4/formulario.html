@@ -1,0 +1,48 @@
+<html>
+	
+	<form action="proceso.php" method="post" enctype="multipart/form-data">
+		
+		<ul>
+			<li>
+				<label for="nombre">Nombre</label>
+				<input type="text" id="nombre" name="nombre" />
+			</li>
+			
+			<li>
+				<label for="pwd">Password</label>
+				<input type="password" id="pwd" name="pwd" />
+			</li>
+			
+			<li>
+				<label for="asunto">Asunto</label>
+				<textarea id="asunto" name="asunto" cols="50" rows="5"></textarea>
+			</li>
+			
+			<li>
+				<label for="provincia">Provincia</label>
+				<select id="provincia" name="provincia">
+					<option value="sevilla">Sevilla</option>
+					<option value="cadiz">Cadiz</option>
+					<option value="huelva">Huelva</option>
+				</select>
+			</li>
+			
+			<li>
+				<label for="archivo">Subir Archivo</label>
+				<input type="file" id="archivo" name="archivo" />
+			</li>
+			
+			<li>
+				<label for="legal">Acepto las condiciones de uso</label>
+				<input type="checkbox" id="legal" name="legal" value="1" />
+			</li>
+			
+			<li>
+				<input type="submit" value="Enviar" />
+			</li>
+			
+		</ul>
+		
+	</form>
+	
+</html>

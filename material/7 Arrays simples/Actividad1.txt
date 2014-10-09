@@ -1,0 +1,17 @@
+﻿Haz un array con la siguiente lista de 
+palabras: "Manolo", "Pepa" y "Jacinto".
+
+
+Imprime array.
+
+
+Cambia "Pepa" por "Luisa".
+
+
+Imprime array.
+
+
+Añade "Jose".
+
+
+Imprime array.

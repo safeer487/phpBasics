@@ -1,0 +1,5 @@
+- Realiza un programa que indique cuantos hermanos tiene un niño. En una variable, llamada $iNumHermanos, deberemos determinar el número. Debe imprimir un texto diferente dependiendo de lo que contenta esa variable. Utiliza switch.
+
+(Si no tiene hermanos, dirá que es hijo único, si tiene uno, dirá que tiene un hermano, si tiede 2, pues dos...)
+
+- Realiza un script que te indique si te ha tocado la lotería. Como el caso anterior utilizaremos un switch y una variable (por ejemplo $iNumBoleto). Si ganas: "Eres rico". Si pierdes: "Mala suerte.".

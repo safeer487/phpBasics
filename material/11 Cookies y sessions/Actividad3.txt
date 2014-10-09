@@ -1,0 +1,11 @@
+Realiza dos páginas webs:
+
+entrar.php
+zona_privada.php
+
+Dentro de entrar.php, debe existir un ancla que lleve a zona_privada.php . Cuando se pulse dicho enlace, deberá crear una SESSION. 
+En la zona_privada.php solo contendrá un texto: 'ZONA PERSONAL'. Y un ancla con el texto: 'cerrar sesión'. Cuando se pulse este botón, se eliminará todas las SESSION, incapacitando la posibilidad para entrar de nuevo sin pasar por entrar.php.
+
+
+entrar.php - Hipervinculo que apunta a zona_privada.php
+zona_privada.php - Si existe datos (POST o GET), creará una session y te dejará permanecer. Si no hay datos, pero existe una session, también podrás estar. Pero en caso contrario, te tira a entrar.php

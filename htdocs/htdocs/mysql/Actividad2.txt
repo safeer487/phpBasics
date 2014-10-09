@@ -1,0 +1,25 @@
+-Con la base de datos que te proporciono (paises.sql), realiza las siguientes consultas:
+
+> Todos los datos. Respuesta: BOTON DE EXAMINAR.
+
+> Nombre de todos los paises.  Respuesta: SELECT nombre FROM paises;
+
+> Encuentra España (Spain).  Respuesta: SELECT * FROM paises WHERE nombre = 'spain';
+
+> Nombre del país con la abreviatura SM.  Respuessta: SELECT * FROM paises WHERE abreviatura = 'SM';   (san marino)
+
+> Nombre de todos los paises ordenados alfabéticamente.  Resp:SELECT * FROM paises ORDER BY nombre asc;
+
+> Nombre del país con la id 665. Resp: SELECT * FROM paises WHERE id = '665';     (yemen)
+
+> Nombre del país que esta en la latitud 543856640 y la longitud 543857151.   Resp: SELECT * FROM paises WHERE latitud = 543856640 && longitud = 543857151.    (Sud Africa)
+
+> Nombre de los paises que empiecen por la letra E.   Resp. SELECT * FROM paises WHERE nombre like 'E%' 
+
+> Nombre de los paises que empiece su abreviatura con la letra F.   Resp: SELECT * FROM paises WHERE abreviatura like 'F%';
+
+> Primeras 5 abreviaturas.  Resp: SELECT abreviatura FROM paises LIMIT 0,5 
+
+> Las siguientes 5 abreviaturas. Resp: SELECT abreviatura FROM paises LIMIT 5,5 
+
+> Las últimas 8 abreviaturas. Resp: SELECT abreviatura FROM paises ORDER BY abreviatura DESC LIMIT 0,8 

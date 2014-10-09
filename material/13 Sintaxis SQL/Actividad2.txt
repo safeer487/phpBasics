@@ -1,0 +1,25 @@
+-Con la base de datos que te proporciono (paises.sql), realiza las siguientes consultas:
+
+> Todos los datos.
+
+> Nombre de todos los paises.
+
+> Encuentra España (Spain).
+
+> Nombre del país con la abreviatura SM.
+
+> Nombre de todos los paises ordenados alfabéticamente.
+
+> Nombre del país con la id 665.
+
+> Nombre del país que esta en la latitud 543856640 y la longitud 543857151.
+
+> Nombre de los paises que empiecen por la letra E.
+
+> Nombre de los paises que empiece su abreviatura con la letra F.
+
+> Primeras 5 abreviaturas.
+
+> Las siguientes 5 abreviaturas.
+
+> Las últimas 8 abreviaturas.

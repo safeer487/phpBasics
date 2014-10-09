@@ -1,0 +1,3 @@
+Crea un formulario para subir fotografías, que solo admita ".jpg" y ".JPG".
+
+El resultado tiene que ser mostrado en una etiqueta <img>

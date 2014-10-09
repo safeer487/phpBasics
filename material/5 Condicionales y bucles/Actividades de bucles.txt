@@ -1,0 +1,6 @@
+Con FOR, WHILE y DO WHILE
+-Bucle que imprima del 1 al 10.
+-Bucle que imprima del del 12 al 24.
+-Bucle que imprima del 30 al 20.
+-Bucle que imprima los números impares del 1 al 100.
+-Bucle que imprima del 1 al 100, y los números redondos (10, 20, 30...) los ponga en negrita.

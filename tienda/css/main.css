@@ -1,0 +1,29 @@
+.container {
+	text-align: center;
+}
+
+.btn-group {
+	margin: 50px;
+}
+.row {
+	margin-top: 50px;
+}
+.alert {
+	text-align: left;
+}
+footer {
+	margin-top: 50px;
+	text-align: center;
+}
+th {
+	text-align: center;
+}
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+	line-height: 2.4;
+}
+#color {
+	width: 20px;
+	height: 20px;
+	margin: 0 auto;
+	margin-top: 8px;
+}

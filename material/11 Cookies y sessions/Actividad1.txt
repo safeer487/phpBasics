@@ -1,0 +1,5 @@
+Realiza una página que pida un nombre. Después, si vuelves a la misma, deberá verse el nombre que se puso la primera vez.
+
+Para hacer esto necesitarás crea un formulario que te pida tu nombre, y contenga un botón con el texto "Entrar". Cuando se pulse, deberá crearse una cookie ($nom) con el nombre del campo de texto. Todo ello se realizará en un segundo archivo con PHP.
+En el momento que se vuelva a cargar la primera página, deberá aparecer arriba el texto: "Hola de nuevo $nom".
+

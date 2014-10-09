@@ -1,0 +1,19 @@
+Una tienda que se dedica a comprar oro, te ha pedido una aplicación web para todas tus tiendas. Necesitan una calculadora que les diga el precio de los objetos.
+
+Los campos serán:
+
+- Quilates: 24, 18 y 14. (Lista desplegable)
+- Objeto: anillo, pulsera, colgante o mineral. (Lista desplegable)
+- Kg o g. (Lista desplegable)
+- Peso. (texto)
+
+Para ayudarte a calcular:
+
+24k -> 27,70 g/euro
+18k -> 19,86 g/euro
+14k -> 14,43 g/euro
+
+Anillo = +10 euros
+Pulsera = -30 euros
+colgante = -20 euros
+mineral = 0 euros

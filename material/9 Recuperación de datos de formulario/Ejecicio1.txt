@@ -1,0 +1,15 @@
+Han abierto una empresa con un producto de alta tecnología; una pastilla que te cambia el color de los ojos, y han decidido venderla por internet. La pastilla no funciona, es todo una estafa online, pero eso a ti no te incumbe. 
+
+Te han contratado para que realices el siguiente formulario con el nombre "encargar.php":
+
+Nombre - Texto
+Apellidos - Texto
+Edad - Texto
+Sexo - Radio 
+Color de ojos - Lista
+Color de ojos que te quieres cambiar - Lista
+Por qué quieres hacerlo? - TextArea
+
+Estos datos tienen que ser enviados a "interesados.php". Mostrará el siguiente resultado:
+
+Sr.(Sexo) (Nombre) (Apellidos), con la edad de (Edad); ha decidido cambiar sus ojos de color (ColorOriginal) a (ColorNuevo) por (Razones).

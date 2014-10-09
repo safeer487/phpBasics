@@ -1,0 +1,20 @@
+Una bloggero te ha pedido que le hagas una página web para publicar sus articulos del blog. 
+
+"formulario.php"
+
+Aqui tienes que hacer un formulario con la siguiente estructura.
+
+Título
+Subtítulo
+Artículo
+Firma - Radio Button
+Fecha - En tres listas desplegables. (Con números, generadas con bucles)
+
+
+"articulos.php"
+
+Aqui mostrarás el texto. 
+Título en <h1>
+Subtítulo debajo con <h2>
+Artículo en un <p>
+La fecha acompañará al subtítulo.

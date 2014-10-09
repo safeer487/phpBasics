@@ -1,0 +1,14 @@
+Instalador de plugins:
+Package Control
+
+Para ayudar a programar en PHP:
+Autofilename
+Alingment
+DocBlockr
+PHPUnit Completions
+PHPUnit
+SublimeLint
+
+Opcionales:
+Goto Documentation
+Gist

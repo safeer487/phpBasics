@@ -1,0 +1,39 @@
+<?php
+	
+	//Array Vacio
+	$aVacio = array();
+	
+	$aDias = array("L","M","X","J","V","S","D");
+	
+	$aNumeros = array(3,27,12,-4,5);
+	
+	$aMixto = array("Hola ",34,1,"Mundo",0);
+	
+	//echo $dias;
+	
+	//Imprimir arrays en pantalla
+	
+	//implode(["separador"],$array)
+	echo implode(" - ",$aDias);
+	echo "<br />";
+	
+	//print_r
+	print_r($aDias);
+	echo "<br />";
+	
+	echo "<pre>";
+	print_r($aDias);
+	echo "</pre>";
+	echo "<br />";
+	
+	//var_dump
+	echo "<pre>";
+	var_dump($aDias);
+	echo "</pre>";
+	
+	echo "<pre>";
+	var_dump($aNumeros);
+	echo "</pre>";
+	
+	
+?>

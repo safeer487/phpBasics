@@ -1,0 +1,34 @@
+﻿-Almacena en un array los 10 primeros números pares. Después 
+imprimelos.
+
+-Sumalos entre sí los números anteriores (ayudate de foreach) 
+e imprime el resultado.
+
+-Crea un array introducciendo las ciudades: Madrid, 
+Barcelona, Londres, New York, Los Angeles y Chicago. Imprimelos de la siguiente forma.
+
+"La ciudad en la posición 1 tiene el nombre Madrid."
+"La ciudad en la posición 2 tiene el nombre Barcelona."
+
+-Siguiendo el ejemplo anterior.
+
+$array = [
+    "el pais" => "http://elpais.com/",
+    "BR" => "Barcelona",
+];
+
+
+-Crea un array con los días de la semana. Después, a partir 
+de ese array; crea otro array pero con el orden inverso. 
+
+
+-Crea una lista desordenada a partir de un array que 
+contendrá el nombre y dirección de diferentes periódicos 
+online (el país, el mundo, la razón, libertad digital...). 
+Muestra una lista de enlaces a esos períódicos.
+
+* El país.
+* 
+El mundo.
+* La razón.
+* Libertad digital.

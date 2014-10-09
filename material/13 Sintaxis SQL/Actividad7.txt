@@ -1,0 +1,12 @@
+Crea una web para una tienda de ropa donde puedan controlar sus productos.
+
+- Posibilidad para identificarte como empleado.
+- Panel para insertar nuevas prendas
+- Botón para marcar productos en oferta.
+- Ver lista de ropa rebajada. 
+- Buscador simple.
+- Buscador avanzado.
+
+tipo_articulo (id, nombre): zapatos, pantalones, faldas, vestidos, camisetas y sombreros.
+articulos (id, nombre, id_tipo_articulo, color, talla, genero): nombre, tipo de artículo, color, talla, género.
+Los empleados tendrán un nombre y una contraseña.

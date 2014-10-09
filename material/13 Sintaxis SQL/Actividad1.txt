@@ -1,0 +1,18 @@
+- Vamos a fabricar una base de datos para hacer un inventario de nuestra biblioteca. Para ello crearemos 4 tablas.
+
+> Leidos. (id, título, autor, año) Por SQL.
+> Académicos. (id, género, diccionario (boolean)) Por SQL.
+> Pendientes. (id, título, autor, año) Por PHPMyAdmin.
+> Prestados. (id, título, sujeto, fecha) Por PHPMyAdmin.
+
+- Por sentencias SQL, incluye un par de libros en Leidos y en Académicos.
+
+- Por interfaz gráfica (PhpMyAdmin), añade algunos libros en Pendientes y Prestados.
+
+- Lista todos los libros por comandos SQL.
+
+- Te han devuelto un libro. Borralo de Prestados y añadelo en Leidos. (Por SQL)
+
+- Cuando pensaba que te iban a devolver otro libro, te lo ha cogido otro amigo. Actualiza el sujeto y la fecha.
+
+- Ya te lo ha devuelto. Ahora dejalo en Leidos y borralo de Prestados.

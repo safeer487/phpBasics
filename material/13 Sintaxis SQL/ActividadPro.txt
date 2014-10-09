@@ -1,0 +1,14 @@
+Vamos a realizar un panel para gestionar nuestras películas.
+
+1. Crear un panel que, mediante alias y contraseña, este protegido. (Utiliza Session). Ambos datos tienen que estar almacenados en una tabla.
+
+id-alias-password
+
+2. Redireccionará a una página con dos botones: Visualizar y Crear nueva.
+
+-Visualizar tiene que mostrar todas las películas en dos columnas: Nombre y año. Ordenado por nombre.
+-Crear nueva, deberá contener un formulario donde se podrán ingresar los datos: nombre, año, director, formato (DVD, Blu-Ray, VHS y Digital). Y un botón de "crear".
+
+3. Cuando lo anterior funcione correctamente, añadiremos una opcion de "ELIMINAR" en nuestro menú. Al lado de cada resultado se mostrará este botón. Su funcion es eliminar ese dato.
+
+4. Ahora crea la opción ACTUALIZAR.

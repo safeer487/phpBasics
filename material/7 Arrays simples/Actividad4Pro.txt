@@ -1,0 +1,2 @@
+-Crea un array con los días de la semana. Después, a partir 
+de ese array; crea otro array pero con el orden inverso. 

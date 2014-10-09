@@ -1,0 +1,15 @@
+- Dada la base de datos 'caballos.sql', realiza las siguientes consultas.
+
+> Muestra todos los datos de Animales.
+
+> Nombre del dueño de As de oros. 
+
+> Nombre del establo donde esta Tornado.
+
+> Nombre del caballo de Don Quijote.
+
+> Nombre de todos los caballos que estan en Fileo.
+
+> Nombre de todos los caballos que tiene Zapata (es su apodo).
+
+> Número de caballos que tiene el establo Epicaste

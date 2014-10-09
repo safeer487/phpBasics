@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>CONCURSO</title>
+<script language="javascript">
+var Url = location.href;
+Url = Url.replace(/.*\?(.*?)/,"$1");
+Variables = Url.split ("&");
+for (i = 0; i < Variables.length; i++) {
+       Separ = Variables[i].split("=");
+       eval ('var '+Separ[0]+'="'+Separ[1]+'"');
+}
+if(exito == 1) {
+	alert("GRACIAS POR PARTICIPAR");
+} else if(error == 1) {
+	alert("Se ha producido un error. Por favor, vuelva a intentarlo.");
+}
+</script>
+</head>
+
+<body><br><br><center>
+CONCURSO DE DISE&Ntilde;O WEB<br><br>
+<form action="main.php" method="post" enctype="multipart/form-data" name="formUsuario" id="formUsuario">
+  <label>Nombre:
+  <input type="text" name="nombre" />
+  </label>
+  <p>
+    <label>E-mail:
+    <input type="email" name="correo" />
+    </label>
+  </p>
+  <p>
+    <label>Edad:
+    <input type="number" name="edad" />
+    </label>
+  </p>
+  <p>
+    <label>Archivos:
+    <input type="file" name="archivos" />
+    </label>
+  </p>
+  <p>(Comprimir todo en un &uacute;nico zip o rar) </p>
+  <p>&nbsp;</p>
+  <p>
+    <input type="submit" name="Submit" />
+  </p>
+</form>
+</center>
+</body>
+</html>

@@ -1,0 +1,13 @@
+-Crea una lista desordenada a partir de un array multidimensional que 
+contendrá el nombre y dirección de diferentes periódicos 
+online (el país, el mundo, la razón, libertad digital...). Imprimelos de la siguiente forma.
+
+"El país esta en http://elpais.com/"
+"El mundo esta en http://www.elmundo.es/
+
+-Muestra en una lista desordenada, los hiperenlaces a esos períódicos.
+
+* El país.
+* El mundo.
+* La razón.
+* Libertad digital.

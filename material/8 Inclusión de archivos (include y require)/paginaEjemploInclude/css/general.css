@@ -1,0 +1,258 @@
+@charset "utf-8";
+body {
+	background-color: #E5E5E5;
+}
+#divFondoNegro {
+	background-color: #000;
+	height: 80px;
+	width: 100%;
+	margin-top: 0px;
+	position: absolute;
+}
+#divTitulo {
+	font-family: "Clicker Script";
+	font-size: 40px;
+	color: #FFF;
+	margin-left: 150px;
+	height: 65px;
+	width: 240px;
+	padding-top: 15px;
+	float: left;
+}
+#divGaleria {
+	height: 500px;
+	width: 768px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+}
+#divMiniaturas {
+	float: left;
+	height: 500px;
+	width: 150px;
+}
+
+
+#divRedesSociales {
+	float: right;
+	height: 75px;
+	width: 300px;
+	margin-right: 80px;
+	padding-top: 5px;
+}
+#divImagenes {
+	float: right;
+	height: 500px;
+	width: 600px;
+}
+
+
+.menu {
+	display:inline;
+}
+#divMinigaleria {
+	height: 300px;
+}
+
+.menu li {
+	display:inline-block;
+}
+
+#enlaceFacebook {
+	background-image: url(../img/facebook.png);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	height: 72px;
+	width: 72px;
+}
+#enlaceFacebook:hover {
+	background-image:url(../img/facebookHover.png);
+}
+section {
+	width: 768px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#enlaceYoutube {
+	background-image: url(../img/youtube.png);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	height: 72px;
+	width: 72px;
+}
+#texto1 {
+	font-family: "Clicker Script";
+	font-size: 25px;
+	text-align: justify;
+}
+
+#enlaceYoutube:hover {
+	background-image:url(../img/youtubeHover.png);
+}
+#enlaceSkype {
+	background-image: url(../img/skype.png);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	height: 72px;
+	width: 72px;
+}
+#navBarra {
+	margin-left: -40px;
+}
+
+#navBarra li {
+	height: 39px;
+	width: 120px;
+	margin-right: 25px;
+	text-align: center;
+	font-family: "Clicker Script";
+	color: #000;
+	border-right-width: 2px;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #000;
+	border-left-color: #000;
+	font-size: 24px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	padding-top: 1px;
+}
+#divNav {
+	height: 40px;
+	width: 610px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#navBarra a li {
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+#navBarra a li:hover {
+	font-weight: bolder;
+}
+
+
+#enlaceSkype:hover {
+	background-image:url(../img/skypeHover.png);
+}
+
+#texto2 {
+	font-family: "Clicker Script";
+	font-size: 25px;
+	text-align: justify;
+	margin-bottom: 20px;
+}#divImagenGran1 {
+	background-image: url(../img/galeria1.jpg);
+	height: 500px;
+	width: 600px;
+	position: absolute;
+}
+#divImagenGran2 {
+	background-image: url(../img/galeria2.jpg);
+	height: 500px;
+	width: 600px;
+	position: absolute;
+}
+#divImagenGran3 {
+	background-image: url(../img/galeria3.jpg);
+	height: 500px;
+	width: 600px;
+	position: absolute;
+}
+
+
+.separacionMiniaturas {
+	margin-top: 12px;
+	cursor: pointer;
+}
+#divFooter {
+	color: #FFF;
+	background-color: #000;
+	height: 50px;
+	width: 768px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Clicker Script";
+	text-align: center;
+	font-size: 22px;
+}
+#miniatura1 {
+	background-image: url(../img/galeria1miniatura.jpg);
+	float: left;
+	height: 150px;
+	width: 150px;
+}
+#miniatura1:hover {
+	background-image: url(../img/galeria1miniaturaHover.jpg);
+}
+
+#miniatura2 {
+	background-image: url(../img/galeria2miniatura.jpg);
+	float: left;
+	height: 150px;
+	width: 150px;
+}
+
+#miniatura2:hover {
+	background-image: url(../img/galeria2miniaturaHover.jpg);
+}
+
+
+
+#miniatura3 {
+	background-image: url(../img/galeria3miniatura.jpg);
+	float: left;
+	height: 150px;
+	width: 150px;
+}
+
+#miniatura3:hover {
+	background-image: url(../img/galeria3miniaturaHover.jpg);
+}
+#divFormulario {
+	background-color: #FFF;
+	height: 300px;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	box-shadow: 0 5px 5px 0 #999;
+}
+#divFormulario form ul {
+	list-style: none;
+	padding-top: 20px;
+	margin-left: 40px;
+}
+#divFormulario form ul li {
+	list-style: none;
+	margin-top: 15px;
+}
+#divFooter a {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bolder;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 16px;
+}

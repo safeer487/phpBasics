@@ -1,0 +1,12 @@
+Nos han pedido que hagamos un generador de "tags".
+En una variables $sPalabras podremos poner diferentes palabras claves separadas por comas. Se Nos mostrará la información de la siguiente manera.
+
+- perro, gato, cucaracha, mosquito, paloma -
+
+- Palabra clave 1: perro.
+- Palabra clave 2: gato.
+- Palabra clave 3: cucaracha.
+....
+
+
+PISTA: implode()

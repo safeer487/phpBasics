@@ -1,0 +1,16 @@
+-Crea un directorio llamado "Rojo"
+
+-Crea los siguientes directorios
+
+->Rojo
+---->Azul
+---->Verde
+---->Amarillo
+-------->Naranja
+
+-Lista los directorios, dentro de rojo.
+
+-Crea un archivo con el nombre "Colores.txt" dentro de "Rojo".
+
+-Borra Colores.txt
+

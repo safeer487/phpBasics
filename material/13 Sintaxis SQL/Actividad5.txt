@@ -1,0 +1,8 @@
+Crea una zona privada dentro de una web a la cual solo podrán entrar los empleados:
+
+Alias: Apu
+Contraseña: 1234
+
+
+-Base de datos: badulaque
+-Tabla: empleados -> id, alias, contrasenya

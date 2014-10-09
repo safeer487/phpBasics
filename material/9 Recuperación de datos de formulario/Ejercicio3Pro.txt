@@ -1,0 +1,12 @@
+Tienes que desarrollar un formulario para la compra de un coche. Partimos de un precio base de 12.000¤, que puede variar según las equipaciones que escoja cada persona:
+
+Motor: gasolina, diesel (+1500¤), híbrido (+3000¤)
+Modelo: 3 puertas - solo disponible para gasolina (-2000¤), 5 puertas, familiar (+1500¤).
+Color: rojo, verde, naranja, blanco (-500¤), negro (-600¤)
+Pintura metalizada: +750¤ disponible solo para rojo, verde y naranja.
+Llantas de aleación: +200$
+Climatizador: +800¤
+GPS: +340¤
+DVD: +800¤ (solo para el modelo familiar)
+
+Imprime el precio final

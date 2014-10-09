@@ -1,0 +1,22 @@
+﻿-Escribir un programa que cree un array para almacenar las notas de 10 alumnos. 
+El programa mostrará las notas de todos los alumnos, de sus tres evaluaciones,
+ y además debe mostrar la nota media del grupo.
+
+		
+
+pepe - 8 5 9 -> 7.3
+		
+juan - 4 4 6 -> 4.6
+
+alicia - 10 8 3 -> 7		
+........
+
+		
+Media: 6
+
+
+
+
+
+
+-Continuando el ejercicio anterior, haz una forma para aprobar a los suspendidos con un 5. Y marca sus nombres en rojo.

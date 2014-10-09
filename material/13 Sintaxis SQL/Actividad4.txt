@@ -1,0 +1,13 @@
+- Realiza una web para guardar grupos de música, que te gusten, en una base de datos.
+
+-Base de datos: grupos
+-Tabla: miembros -> id, nombre, cantante
+-Interfaz
+    
+                 _______
+       Nombre   |_______|
+                 _______
+       Cantante |_______|
+
+              ________
+             |_Enviar_|

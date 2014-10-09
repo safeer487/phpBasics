@@ -1,0 +1,17 @@
+Formulario:
+
+-Nombre.
+
+-Correo.
+
+-Asunto.
+
+-Mensaje.
+
+
+El texto que debe imprimir el otro php será una estructura similar. Acontinuación te dejo un ejemplo:
+
+-Nombre: Andros
+-Correo: andros@correo.es
+-Asunto: Hola que ase
+-Mensaje: Cuanto tiempo sin saber de ti...

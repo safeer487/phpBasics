@@ -1,0 +1,22 @@
+- Dada la base de datos 'caballos.sql', realiza las siguientes consultas.
+
+> Muestra todos los datos de Animales.   Resultado:SELECT * FROM animales
+
+> Nombre del dueño de As de oros.   
+ Resultado:SELECT nombre FROM propietarios WHERE id = (SELECT id_propietario FROM animales WHERE nombre lIKE '%As de oro%');
+
+> Nombre del establo donde esta Tornado.  
+Resultado:SELECT nombre from establos WHERE id = (SELECT id_establo FROM animales WHERE nombre = 'tornado');
+
+> Nombre del caballo de Don Quijote.
+Resultados:SELECT nombre FROM animales WHERE id_propietario = (SELECT id FROM propietarios WHERE apodo='Don Quijote de la Mancha')
+																								apodo='%Don Quijote de la Mancha%')
+
+> Nombre de todos los caballos que estan en Fileo.
+Resultados:SELECT nombre FROM animales WHERE id_establos=(SELECT id FROM establos WHERE nombre='Fileo')
+
+> Nombre de todos los caballos que tiene Zapata (es su apodo).
+SELECT nombre FROM animales WHERE id_propietario = (SELECT id FROM propietarios WHERE apodo= 'Zapata')
+
+> Número de caballos que tiene el establo Epicaste
+SELECT count(*) FROM animales WHERE id_establo=(SELECT id FROM establos Where nombre='Epicaste')
